@@ -32,7 +32,7 @@ This system analyzes customer purchase patterns from H&M's dataset to generate p
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/hm-recommendation-system.git
+git clone https://github.com/kasia-dudek/hm-recommendation-system.git
 cd hm-recommendation-system
 pip install torch pandas scikit-learn numpy
 ```
